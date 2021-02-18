@@ -1,0 +1,14 @@
+{
+	"tc01": {
+		"username": "nithya.ganesh.230@gmail.com",
+		"password": "xero@123$"
+	},
+	"tc01b": {
+		"username": "nithya.ganesh.230@gmail.com",
+		"password": "xero@123"
+	},
+	"tc01c": {
+		"username": "nithya.ganesh@gmail.com",
+		"password": "xero@123$"
+	}
+}
